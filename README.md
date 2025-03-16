@@ -46,4 +46,4 @@ Usage:
     3. Set time limit per question
     4. Solve math problems within the time limit
     5. Type 'stop' to end the game and see final score
-"""
+
