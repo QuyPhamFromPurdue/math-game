@@ -1,4 +1,4 @@
-# An Interactive Mathematics Quiz Game
+# An Interactive Mathematics Quiz Game - Quy Pham
 
 This game is designed to test and improve mathematical skills through timed arithmetic challenges.
 Players can choose different difficulty levels and set their own time limits for solving problems.
