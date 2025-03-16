@@ -1,2 +1,2 @@
-# MathGameByQuy - An Interactive Mathematics Quiz Game
+# An Interactive Mathematics Quiz Game
 
