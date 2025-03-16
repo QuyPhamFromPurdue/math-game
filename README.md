@@ -40,10 +40,10 @@ Classes and Functions:
         Main game loop that manages the gameplay flow and user interaction.
 
 Usage:
-    Run the script and follow the prompts to:
-    1. Choose to start the game (Y/N)
-    2. Select difficulty level (A/B/C)
-    3. Set time limit per question
-    4. Solve math problems within the time limit
-    5. Type 'stop' to end the game and see final score
+Run the script and follow the prompts to:
+1. Choose to start the game (Y/N)
+2. Select difficulty level (A/B/C)
+3. Set time limit per question
+4. Solve math problems within the time limit
+5. Type 'stop' to end the game and see final score
 
